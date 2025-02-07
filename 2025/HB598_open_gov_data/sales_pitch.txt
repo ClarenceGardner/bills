@@ -1,0 +1,61 @@
+
+LSR Number: 25-0830
+
+Title: establishing a committee to study data sources of all entities
+operated by all branches of government that are or are potentially
+made available to the public, identify the data formats of those
+sources, and recommend legislation to standardize types and formats of
+data output from all or select governmental entities.
+
+There is a ton of information that is already in IT systems within
+state government that could be / should be surfaced for citizens to
+see.
+
+Despite there being dozens of state reps interested in the topic, and
+hundreds of New Hampshire citizens who have joined a Signal group to
+forward this project, the exact details of how to do this are unclear.
+
+Thus, this proposes a study committee.
+
+More details can be found here :
+
+	https://travis4nh.github.io/open-gov-data-init/
+
+	The Open Government Data Initiative advocates for laws that force
+	government to proactively publish data in machine-readable
+	formats.
+
+	It is non-partisan ; we support exposing all data, whether that
+	might support the policies of the left, the right, both, or
+	neither.
+
+	It does not advocate for government-provided tools to view or read
+	data; it advocates only for the publishing of data.
+
+	( The OGDI believes in The Unix Philosophy: small tools, loosely
+	coupled. Make the government provide the data and the free market
+	will do the rest! )
+
+	In New Hampshire we have RSA 91-a.
+
+	These are better than nothing, but inadequate.
+
+	Both of these require:
+
+	- that a citizen know what information they want
+
+	- that a citizen send in a request to the government
+
+
+	- that the citizen wait for the government (often there’s a
+	‘deadline’, but (a) there are no penalties when the government
+	breaks the deadline, (b) the deadline can be satisfied by the
+	government merely replying by the specified date “this may take up
+	to three years”).  that the citizen pay for reproduction costs
+	Further, the data
+
+	- does not come back in a machine-readable format
+
+	- is published, at most, once, and not repeatedly (e.g. annually,
+      quarterly, weekly…)
+
