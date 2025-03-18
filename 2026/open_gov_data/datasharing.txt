@@ -1,0 +1,49 @@
+request for research: existing examples of "structured" computer data
+
+T J Corcoran <tjic2020@gmail.com>
+3:17 PM (15 minutes ago)
+to olsresearch
+
+NH has RSA 91-A which says that citizens may ask for documents.  The request and the response are both human mediated.
+
+I am interested in the topic of, and have already put bills forth in the past, re something related but distinct: mandated reporting by various government agencies which consists of placing "structured" data at certain website URLs.
+
+By "structured", I mean data in a machine readable format.  Examples of such formats include .xsls spreadsheets, CSV files ("comma separated variable"), XML, and JSON.
+
+Can you tell me if there are existing initiatives or laws in other states on this topic?  I'm interested both in existing law, and existing technical definitions, if any (why reinvent the wheel?).
+
+Starting points:
+
+I know that the Federal reserve (via "FRED") and the Census Bureau do a lot with providing data, in ways that are similar to, but not exactly, what I am looking for.
+
+Closer to what I'm looking for is this https://xml.house.gov/
+
+Thank you!
+
+Travis Corcoran
+Hillsborough 44 (though running for Hills-28 in the upcoming election)
+
+ ------------------------------ snip! ------------------------------
+ ------------------------------ snip! ------------------------------
+
+
+T J Corcoran
+3:32 PM (0 minutes ago)
+to olsresearch
+
+A related question:
+
+I believe that many or most NH police departments are already involved in data collection and data sharing efforts.  NIBRS is one such system.
+
+Anything you could tell me about
+
+* what data sharing goes on between state and town level governments
+* what formats, reporting schedule, etc those reporting programs use
+
+would be amazing.
+
+Better to piggyback reporting atop existing practices and tools!
+
+Thank you,
+
+Travis Corcoran
